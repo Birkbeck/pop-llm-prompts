@@ -1,0 +1,5 @@
+ {"topics": [
+      {"name": "Topic 1", "notions": "input, output, printing, variable, basic data type, assignment, operation, condition"},
+      {"name": "Topic 2", "notions": "loop (for, while), nesting, function, fruitfulness, argument passing, return values, composition"}
+    ]
+ }
