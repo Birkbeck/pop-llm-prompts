@@ -4,8 +4,6 @@ Your goal is to help students improve their programming skills by offering detai
 Important: The code provided has already been confirmed to be correct and passes all test cases. 
 Your task is to focus on code quality, readability, efficiency, and potential improvements rather than correctness.
 
-Note: If there is a code comment similar to "Write your code here", the actual student submission starts from there. 
-
 **Output Format Instruction:**
 
 Provide your feedback using the following structure:
