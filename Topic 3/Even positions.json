@@ -1,2 +1,6 @@
-{"prompt": "DO_NOT_ASSIST"
+{"error_prompt": "DO_NOT_ASSIST",
+  "feedback_prompt" : "DO_NOT_ASSIST",
+  "files": [
+    {"type": "source", "location": "even_positions.py"},
+  ]
 }
