@@ -1,1 +1,6 @@
-
+{ "errorPrompt": "",
+  "feedbackPrompt" : "",
+  "files": [
+    {"type": "source", "location": "number_distinct_elements.py"}
+  ]
+}
