@@ -1,1 +1,6 @@
-
+{ "errorPrompt": "",
+  "feedbackPrompt" : "",
+  "files": [
+    {"type": "source", "location": "neighbours_same_sign.py"}
+  ]
+}
