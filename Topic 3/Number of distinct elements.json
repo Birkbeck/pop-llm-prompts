@@ -1,5 +1,5 @@
 { "errorPrompt": "",
-  "feedbackPrompt" : "If the student used sets in their solution, ask them to provide a new solution without using sets if they can. Explain that this is important for the course learning outcomes. Do not reveal the solution without sets",
+  "feedbackPrompt" : "If the student used sets in their solution, ask them to provide a new solution without using sets if they can. Explain that this is important for the course learning outcomes. Do not reveal the solution without sets.",
   "files": [
     {"type": "source", "location": "number_distinct_elements.py"}
   ]
