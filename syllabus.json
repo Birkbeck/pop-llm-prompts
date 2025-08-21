@@ -1,5 +1,12 @@
  {"topics": [
       {"name": "Topic 1", "notions": "input, output, printing, variable, basic data type, assignment, operation, condition"},
-      {"name": "Topic 2", "notions": "loop (for, while), nesting, function, fruitfulness, argument passing, return values, composition"}
+      {"name": "Topic 2", "notions": "loop (for, while), nesting, function, fruitfulness, argument passing, return values, composition"},
+      {"name": "Topic 3", "notions": "collection, list, dictionary, set, tuple, string operation"},
+      {"name": "Topic 4", "notions": "stack, heap, reference type, aliasing, matrix"},
+      {"name": "Topic 5", "notions": "text and binary file, module, library, exception, type hint, type annotation"},
+      {"name": "Topic 6", "notions": "unit test, pytest, version control, Git, GitHub"},
+      {"name": "Topic 7", "notions": "object, class, constructor, encapsulation"},
+      {"name": "Topic 8", "notions": "inheritance, subclass, superclass, overriding, polymorphism"},
+      {"name": "Topic 9", "notions": "higher-order function, iterator, generator, list comprehension"}
     ]
  }
