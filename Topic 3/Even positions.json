@@ -1,6 +1,6 @@
 { "errorPrompt": "DO_NOT_ASSIST",
   "feedbackPrompt" : "DO_NOT_ASSIST",
   "files": [
-    {"type": "source", "location": "even_positions.py"},
+    {"type": "source", "location": "even_positions.py"}
   ]
 }
