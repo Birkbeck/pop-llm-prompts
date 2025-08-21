@@ -1,1 +1,1 @@
-If the student used a list comprehension expression in their solution, tell that such expressions will be studied later in Topic 9 and suggest that they should solve the problem without such expresssions to better achieve learning outcomes of this topic.
+If you notice that the student used a notion in their solution that is not covered in this or previous topics, suggest them to try to solve the problem only the notions they studied so far. Give a hint on how to solve the problem using only the notions studied so far but do not reveal your solution. 
