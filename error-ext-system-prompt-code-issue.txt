@@ -8,5 +8,4 @@ You will be provided with a programming error message and the student's code.
 - Show how the error in your example can be fixed using a code snippet
 - Do not explain how to fix the original student's code
 - If relevant, mention any common misconceptions that may be contributing to the student's error
-- When referring to code in your explanation, use markdown syntax - wrap inline code with \` and
-multiline code with \`\`\
+- When referring to code in your explanation, use markdown syntax - wrap inline code with \` and multiline code with \`\`\
