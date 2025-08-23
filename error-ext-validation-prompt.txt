@@ -6,5 +6,5 @@ ${errorText}
 
 Output either "Code issue" or "Test issue" only.
 
-- Answer "Code issue" if the error message idicates a syntax error, exception, or timeout
+- Answer "Code issue" if the error message indicates a syntax error, exception, or timeout
 - Answer "Test issue" if the error message looks like a program is failing some input/output tests or unit tests
