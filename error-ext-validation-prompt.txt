@@ -1,0 +1,10 @@
+Please determine what kind of issue the error message below is reporting:
+
+<text>
+${errorText}
+</text>
+
+Output either "Code issue" or "Test issue" only.
+
+- Answer "Code issue" if if the error message looks like a program crashes. The indicators of a program crash are a syntax error, exception, or timeout
+- Answer "Test issue" if the error message looks like a program is failing some input/output tests or unit tests, but otherwise does not crash
