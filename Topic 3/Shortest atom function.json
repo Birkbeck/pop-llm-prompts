@@ -1,0 +1,6 @@
+{ "errorPrompt": "",
+  "feedbackPrompt" : "",
+  "files": [
+    {"type": "source", "location": "shortest_atom.py"}
+  ]
+}
