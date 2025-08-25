@@ -1,0 +1,6 @@
+{ "errorPrompt": "",
+  "feedbackPrompt" : "",
+  "files": [
+    {"type": "source", "location": "swap_min_max_folder/swap_min_max.py"}
+  ]
+}
