@@ -1,6 +1,6 @@
 { "errorPrompt": "",
   "feedbackPrompt" : "",
   "files": [
-    {"type": "source", "location": "swap_min_max_folder/swap_min_max.py"}
+    {"type": "source", "location": "swap_min_max_folder/test_swap_min_max.py"}
   ]
 }
