@@ -1,6 +1,6 @@
 { "errorPrompt": "",
   "feedbackPrompt" : "",
   "files": [
-    {"type": "source", "location": "test_most_frequent.py"}
+    {"type": "source", "location": "most_frequent_folder/test_most_frequent.py"}
   ]
 }
