@@ -1,0 +1,6 @@
+{ "errorPrompt": "",
+  "feedbackPrompt" : "",
+  "files": [
+    {"type": "source", "location": "test_most_frequent.py"}
+  ]
+}
